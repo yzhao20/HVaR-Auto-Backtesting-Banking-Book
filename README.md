@@ -1,6 +1,6 @@
 #### HVaR_Auto_Backtesting
 ##### 1. Purpose:
-Automate the HVaR on the banking book, as the yield curve and banking book changes daily but with the same risk modelling methodology. This project would highly improve the working efficiency.
+As the yield curve and banking book changes daily but with the same value at risk modelling methodology, so automating the HVaR and backtesting process is highly regarded. 
 ##### 2. Major Steps
          2.1 Upload the historical market yield
          2.2 Bootstrapping the yield curve
