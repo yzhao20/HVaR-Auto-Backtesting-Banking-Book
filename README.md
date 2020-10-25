@@ -8,6 +8,7 @@ As the yield curve and banking book changes daily but with the same value at ris
          2.4 Calculate portfolio market values changes
          2.5 Determine danamic HVaR and its variations
          2.6 Determine if HVaR passes the Backtesting (Always based on yesterday's portfolio)
+         2.7 Job scheduling and email notifications.
        
 ##### 3. Coding concerns
 ##### 4. Other comments
