@@ -3,6 +3,6 @@ The daily BBSW market yield has a dozens of term points, but the calculation of 
 So, the first step is uploading the market yield and generate the daily monthly discount factors.
 
 Input: Market Yield Curve (BBSW + Swap Markets Rate)
-Output: 
+Output: Daily DF up to month 1 and Monthly DFs up to 360 months(30 years).
 """
 
