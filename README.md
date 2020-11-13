@@ -16,4 +16,5 @@ As the yield curve and banking book changes daily but value at risk modelling me
          3.3 GUI
          3.4 Coding Efficiency
 ##### 4. Other comments
-         
+         4.1 Model related comments
+         4.2 Coding related comments
